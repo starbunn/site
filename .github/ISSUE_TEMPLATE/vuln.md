@@ -1,3 +1,10 @@
+---
+name: Vulnerability Issue
+about: use this for vulnerabilities
+title: "vuln: [TITLE] ([DATE])"
+labels: vuln
+assignees: noirelapine
+---
 # vulnerability report
 
 thanks for submitting a vulnerability.

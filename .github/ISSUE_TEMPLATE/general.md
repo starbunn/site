@@ -1,3 +1,9 @@
+---
+name: General Issue
+about: use this for general issues
+title: "[TITLE] ([DATE])"
+assignees: noirelapine
+---
 # general issue report
 
 thank you for reporting an issue.
