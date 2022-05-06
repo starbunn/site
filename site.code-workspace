@@ -1,0 +1,12 @@
+{
+    "folders": [
+        {
+            "path": "react-app",
+            "name": "Frontend"
+        },
+        {
+            "path": ".",
+            "name": "root"
+        }
+    ],
+}
