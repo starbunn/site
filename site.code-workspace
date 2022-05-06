@@ -18,9 +18,9 @@
       "**/.yarn": true,
       "**/.pnp.*": true
     },
-    "eslint.nodePath": ".yarn/sdks",
-    "prettier.prettierPath": ".yarn/sdks/prettier/index.js",
-    "typescript.tsdk": ".yarn/sdks/typescript/lib",
+    "eslint.nodePath": "Frontend/.yarn/sdks",
+    "prettier.prettierPath": "Frontend/.yarn/sdks/prettier/index.js",
+    "typescript.tsdk": "Frontend/.yarn/sdks/typescript/lib",
     "typescript.enablePromptUseWorkspaceTsdk": true
   }
 }
