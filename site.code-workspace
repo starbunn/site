@@ -9,4 +9,18 @@
             "name": "root"
         }
     ],
+    "settings": {
+        "editor.codeActionsOnSave": {
+            "source.fixAll.eslint": true
+        },
+        "editor.formatOnSave": true,
+        "search.exclude": {
+            "**/.yarn": true,
+            "**/.pnp.*": true,
+        },
+        "eslint.nodePath": "react-app/.yarn/sdks",
+        "prettier.prettierPath": "react-app/.yarn/sdks/prettier/index.js",
+        "typescript.tsdk": "react-app/.yarn/sdks/typescript/lib",
+        "typescript.enablePromptUseWorkspaceTsdk": true
+    }
 }
