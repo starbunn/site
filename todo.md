@@ -7,6 +7,7 @@
     - [x] jest
     - [ ] sass w/ postcss
     - [x] typescript
+    - [ ] mume & mdx for markdown blog
   - [ ] backend
 - [ ] implement /usmb
 - [ ] implement blog
